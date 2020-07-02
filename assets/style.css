@@ -1,0 +1,42 @@
+.headerText {
+    color: lightblue;    
+    text-align: center;
+    background-color: darkslategray;
+    padding: 4px;
+}
+
+
+
+
+.citySearchBtn {
+    padding: 0px;
+}
+
+.uvIndexLow12 {
+    background-color: green;
+    color: white;
+}
+
+.uvIndexModerate35 {
+    background-color: yellow;
+    color: black;
+}
+
+.uvIndexHigh67 {
+    background-color: orange;
+    color: white;
+}
+
+.uvIndexVeryHigh810 {
+    background-color: red;
+    color: white;
+}
+
+.uvIndexExtreme11 {
+    background-color: purple;
+    color: white;
+}
+
+.dailyCards {
+    /* padding: 10px; */
+}
