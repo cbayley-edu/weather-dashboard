@@ -38,5 +38,5 @@
 }
 
 .dailyCards {
-    /* padding: 10px; */
+    max-width: 18rem;
 }
