@@ -2,6 +2,8 @@
 
 Welcome to your personal Weather Dashboard that will give you weather for your desired location. Once you search for a city, it will save your previous searches as easy to click buttons. Use these buttons to view the weather for the selected city. You will always be presented with the last city you searched for when you revisit the page.
 
+Access the application here: https://cbayley-edu.github.io/weather-dashboard/
+
 ![weather dashboard](./assets/imgs/weather-dashboard.jpg)
 
 
