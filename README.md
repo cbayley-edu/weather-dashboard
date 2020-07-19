@@ -10,11 +10,14 @@ Welcome to your personal Weather Dashboard that will give you weather for your d
 
 ## Usage
 
-#### Search for a city by typing in the name and clicking search.
+#### Search for a city by typing in the name and clicking search:
    ![city search](./assets/imgs/city-search.jpg)
 
-#### Use a previous search by clicking on a button to display the weather for that location
+#### Use a previous search by clicking on a button to display the weather for that location:
    ![previous city search](./assets/imgs/view-previous-search.jpg)
+
+#### The UV Index will show the appropriate color based on the following scale:
+   ![uv index scale](./assets/imgs/uv-index-desc.gif)
 
 ## License
 MIT License
