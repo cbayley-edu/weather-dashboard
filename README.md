@@ -17,7 +17,7 @@ Welcome to your personal Weather Dashboard that will give you weather for your d
    ![previous city search](./assets/imgs/view-previous-search.jpg)
 
 #### The UV Index will show the appropriate color based on the following scale:
-   ![uv index scale](./assets/imgs/uv-index-desc.gif)
+   ![uv index scale](./assets/imgs/uv-index-desc.jpg)
 
 ## License
 MIT License
