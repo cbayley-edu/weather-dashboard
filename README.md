@@ -1,5 +1,4 @@
-# Weather Dashboard
-# 06 Focus on Server-Side APIs
+# Weather Dashboard (Week 6: Focus on Server-Side APIs)
 
 ## Application
 Access the application here: https://cbayley-edu.github.io/weather-dashboard/
