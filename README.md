@@ -10,7 +10,7 @@ Welcome to your personal Weather Dashboard that will give you weather for your d
 
 ## Usage
 
-#### Search for a city by typing in the name and clicking search:
+*Search for a city by typing in the name and clicking search:*
    ![city search](./assets/imgs/city-search.jpg)
 
 #### Use a previous search by clicking on a button to display the weather for that location:
