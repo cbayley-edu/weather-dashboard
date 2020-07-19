@@ -1,18 +1,20 @@
-# Weather Dashboard (Week 6: Focus on Server-Side APIs)
+# Weather Dashboard 
+### Unit 06 Homework: Server-Side APIs
 
 ### TOC
-* [Application](#application)
 * [Overview](#overview)
+* [Application](#application)
 * [Usage](#usage)
 * [License](#license)
 
-## Application
-Access the application here: https://cbayley-edu.github.io/weather-dashboard/
+## Overview
+Welcome to your personal Weather Dashboard that will give you weather for your desired location. Once you search for a city, it will save your previous searches as easy to click buttons. Use these buttons to view the weather for the selected city. You will always be presented with the last city you typed in the search box when you revisit the page.
 
    ![weather dashboard](./assets/imgs/weather-dashboard.jpg)
 
-## Overview
-Welcome to your personal Weather Dashboard that will give you weather for your desired location. Once you search for a city, it will save your previous searches as easy to click buttons. Use these buttons to view the weather for the selected city. You will always be presented with the last city you typed in the search box when you revisit the page.
+## Application
+* Access the repo here: https://github.com/cbayley-edu/weather-dashboard
+* Access the application here: https://cbayley-edu.github.io/weather-dashboard/
 
 ## Usage
 
